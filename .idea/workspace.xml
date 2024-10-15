@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12bcbdb2-f620-4f8e-9f9e-1d24b2d177f5" name="Changes" comment="Configuracion incial del proyecto KataTDD">
-      <change afterPath="$PROJECT_DIR$/TESTS/TestConjunto.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SRC/LOGICA/Conjunto.py" beforeDir="false" afterPath="$PROJECT_DIR$/SRC/LOGICA/Conjunto.py" afterDir="false" />
+    <list default="true" id="12bcbdb2-f620-4f8e-9f9e-1d24b2d177f5" name="Changes" comment="creando el esqueleto de clases de conjunto y testconjunto">
+      <change beforePath="$PROJECT_DIR$/TESTS/TestConjunto.py" beforeDir="false" afterPath="$PROJECT_DIR$/TESTS/TestConjunto.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,12 +104,21 @@
       <option name="project" value="LOCAL" />
       <updated>1729026415964</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="creando el esqueleto de clases de conjunto y testconjunto">
+      <option name="closed" value="true" />
+      <created>1729026825051</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729026825051</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Configuracion incial" />
     <MESSAGE value="Configuracion incial del proyecto KataTDD" />
-    <option name="LAST_COMMIT_MESSAGE" value="Configuracion incial del proyecto KataTDD" />
+    <MESSAGE value="creando el esqueleto de clases de conjunto y testconjunto" />
+    <option name="LAST_COMMIT_MESSAGE" value="creando el esqueleto de clases de conjunto y testconjunto" />
   </component>
 </project>
